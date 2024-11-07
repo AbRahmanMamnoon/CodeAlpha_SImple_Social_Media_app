@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "checkJs": true,
+    "moduleResolution": "node",
+    "target": "ES2020",
+    "module": "ESNext"
+  },
+  "include": ["src"]
+}
